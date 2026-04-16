@@ -26,3 +26,15 @@ The application utilizes **Role-Based Access Control (RBAC)** to define specific
 * **Database Schema:** Structured tables for Books, Customers, Librarians, Publishers, Orders, and Payments.
 * **UI Design:** Graphical User Interface (GUI) featuring dedicated dashboards for Admins and Members.
 * **Modeling Tools:** Entity-Relationship (ER) Diagrams and application flowcharts.
+
+---
+  
+---
+## Contributors
+This project was a collaborative effort by:
+* **Noor Murtada Alahmed**
+* **Almas Abdurahman Al-Qahtani**
+* **Fatima Ahmed Al Shehab**
+* **Nowra Faisal Alsalem**
+* **Noor Mustafa Al-Hashim**
+* **Maha Ahmed Aldhwaihi**
