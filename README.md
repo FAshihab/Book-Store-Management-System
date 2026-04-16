@@ -28,8 +28,7 @@ The application utilizes **Role-Based Access Control (RBAC)** to define specific
 * **Modeling Tools:** Entity-Relationship (ER) Diagrams and application flowcharts.
 
 ---
-  
----
+
 ## Contributors
 This project was a collaborative effort by:
 * **Noor Murtada Alahmed**
